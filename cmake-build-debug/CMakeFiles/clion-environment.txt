@@ -1,0 +1,5 @@
+ToolSet: 12.0 w64 (local)@D:\msys64\ucrt64
+Ninja: 1.12.0@D:\JetBrains\Toolbox\CLion\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/JetBrains/Toolbox/CLion/bin/ninja/win/x64/ninja.exe

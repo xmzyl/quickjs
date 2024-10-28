@@ -29,7 +29,7 @@ ifeq ($(shell uname -s),FreeBSD)
 CONFIG_FREEBSD=y
 endif
 # Windows cross compilation from Linux
-#CONFIG_WIN32=y
+CONFIG_WIN32=y
 # use link time optimization (smaller and faster executables but slower build)
 #CONFIG_LTO=y
 # consider warnings as errors (for development)
