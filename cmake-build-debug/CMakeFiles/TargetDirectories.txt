@@ -1,3 +1,0 @@
-D:/MyDev/godot/quickjs/cmake-build-debug/CMakeFiles/qjs-debug.dir
-D:/MyDev/godot/quickjs/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/MyDev/godot/quickjs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
