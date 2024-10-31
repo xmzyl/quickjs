@@ -1,5 +1,6 @@
 *.a
 .obj/
+.vscode/
 tests/bjson.so
 examples/test_fib
 test_fib.c
